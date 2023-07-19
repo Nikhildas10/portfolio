@@ -1,3 +1,4 @@
+  @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Julee&family=Kanit:wght@500&family=Kaushan+Script&family=Lora&family=Mulish:wght@300&family=Open+Sans:wght@300&family=Poppins:wght@300&family=Roboto&family=VT323&family=Ysabeau+Office&display=swap');
 
 body {
   background-color: #f5f5f5;
@@ -12,6 +13,7 @@ h5,
 h6 {
   color: #1e1e1e;
 }
+
 
 
 
@@ -167,7 +169,7 @@ h6 {
   content: "";
   position: absolute;
   height: 3px;
-  background-color: #0078ff;
+  background-color: #000000;
   width: 100px;
   bottom: -12px;
 }
@@ -460,9 +462,8 @@ h6 {
 
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background-color: #0078ff;
+  background-color: #ffffff;
 }
-
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
